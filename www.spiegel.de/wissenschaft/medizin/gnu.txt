@@ -1,0 +1,5 @@
+set terminal svg; set output "key.svg";
+set terminal svg; set output "key.svg";
+set xtics rotate by -45; set xtics font ",6";
+set fill solid 0.5;
+plot "< cat -" using 1:xtic(2) with boxes title ""
