@@ -1,0 +1,44 @@
+31	Wissenschaft
+31	Medizin
+30	Coronavirus
+19	Corona-Impfungen
+18	Corona-Impfstoff
+7	Corona-News-Update
+5	Robert Koch-Institut (RKI)
+5	Coronavirus: Medizin
+4	Datenjournalismus
+4	COVID-19
+3	SPD
+3	Kampf gegen die Corona-Pandemie
+3	FDP
+3	Coronavirus: Grafiken
+3	Coronavirus: Arbeit und Wirtschaft
+2	Robert Habeck
+2	Jens Spahn
+2	Funke Mediengruppe
+2	Deutschland
+2	Coronapandemie: Videos
+2	CDU
+1	USA
+1	Twitter
+1	Tschechien
+1	SpaceX (Space Exploration Technologies Corporation)
+1	Roche
+1	Raumfahrt
+1	Pflege
+1	Österreich
+1	Merck
+1	Matthias Maurer
+1	Markus Söder
+1	Internationale Raumstation
+1	Impfung
+1	Hubertus Heil
+1	Homeoffice
+1	Helge Braun
+1	Handelsblatt
+1	Die Welt
+1	Dänemark
+1	Christian Drosten
+1	Bayern
+1	Arbeitsrecht
+1	Airbus
